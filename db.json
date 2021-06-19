@@ -1,0 +1,103 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "id": 2,
+            "title": "sonam kapoor",
+            "author": "bollywood"
+        },
+        {
+            "id": 3,
+            "title": "jow root",
+            "author": "cricket"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "products": [
+        {
+            "id": 1,
+            "price": 500,
+            "size": "S",
+            "brand": "Adidas",
+            "idealFor": "Women",
+            "product_url": "https://rukminim1.flixcart.com/image/495/594/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50"
+        },
+        {
+            "id": 2,
+            "price": 600,
+            "size": "M",
+            "brand": "Adidas",
+            "idealFor": "Men",
+            "product_url": "https://assets.myntassets.com/h_640,q_90,w_480/v1/assets/images/1719933/2017/2/22/11487765190073-Roadster-Women-Olive-Solid-Regular-Top-9441487765189834-1.jpg"
+        },
+        {
+            "id": 3,
+            "price": 700,
+            "size": "XL",
+            "brand": "Puma",
+            "idealFor": "Women",
+            "product_url": "https://assets.abfrlcdn.com/img/app/product/1/172901-434647-large.jpg"
+        },
+        {
+            "id": 4,
+            "price": 800,
+            "size": "L",
+            "brand": "Adidas",
+            "idealFor": "Men",
+            "product_url": "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1465362/2016/8/18/11471499895066-Roadster-Men-Brown-Solid-Regular-Sneakers-3411471499894853-1_mini.jpg"
+        },
+        {
+            "id": 5,
+            "price": 900,
+            "size": "M",
+            "brand": "Puma",
+            "idealFor": "Men",
+            "product_url": "https://rukminim1.flixcart.com/image/495/594/k0h12fk0/t-shirt/v/t/v/m-askporgfe35420-allen-solly-original-imafk8s5wnqwygff.jpeg?q=50"
+        },
+        {
+            "id": 6,
+            "price": 1000,
+            "size": "S",
+            "brand": "Adidas",
+            "idealFor": "Men",
+            "product_url": "https://cdn.shopify.com/s/files/1/0185/1220/products/Navy_blue_gown_adorn_in_zari_and_sequin_in_floral_work_only_on_Kalki_-_Kalkifashion.jpg?v=1504617850"
+        },
+        {
+            "id": 7,
+            "price": 1100,
+            "size": "XL",
+            "brand": "Nike",
+            "idealFor": "Women",
+            "product_url": "https://shop.diesel.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw2063fae2/images/large/00SDH0_0GARN_129_F.jpg?sw=320&sh=427"
+        },
+        {
+            "id": 8,
+            "price": 1200,
+            "size": "L",
+            "brand": "Adidas",
+            "idealFor": "Men",
+            "product_url": "https://mosaic02.ztat.net/vgs/media/catalog1/PO/22/1E/00/2A/11/PO221E002-A11@25.jpg"
+        },
+        {
+            "id": 9,
+            "price": 1300,
+            "size": "S",
+            "brand": "Nike",
+            "idealFor": "Women",
+            "product_url": "https://assets.abfrlcdn.com/img/app/product/1/172901-434647-large.jpg"
+        }
+    ]
+}
